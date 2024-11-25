@@ -7,7 +7,7 @@ Ft_transcendence is the final project of 42's common core curriculum, where you 
 ## Collaboration
 This project involved collaboration with my teammates:
 - [Ezuker](https://github.com/Ezuker)  
-- [Ehlzz](https://github.com/Ehlzz)
+- [fZpHr](https://github.com/fZpHr)
 
 ## Installation
 Clone the project:
